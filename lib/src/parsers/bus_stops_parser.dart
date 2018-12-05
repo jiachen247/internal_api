@@ -1,4 +1,4 @@
-import 'package:nus_nextbus_internal_api/models/bus_stop_api.dart';
+import 'package:nus_nextbus_internal_api/src/models/bus_stop_api.dart';
 
 class BusStopsParser {
 

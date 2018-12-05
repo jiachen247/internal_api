@@ -1,4 +1,4 @@
-import 'package:nus_nextbus_internal_api/models/timing_api.dart';
+import 'package:nus_nextbus_internal_api/src/models/timing_api.dart';
 
 class TimingParser {
 

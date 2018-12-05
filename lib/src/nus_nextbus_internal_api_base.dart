@@ -1,7 +1,7 @@
 
-import 'package:nus_nextbus_internal_api/models/bus_stop_api.dart';
-import 'package:nus_nextbus_internal_api/models/route_api.dart';
-import 'package:nus_nextbus_internal_api/models/timing_api.dart';
+import 'package:nus_nextbus_internal_api/src/models/bus_stop_api.dart';
+import 'package:nus_nextbus_internal_api/src/models/route_api.dart';
+import 'package:nus_nextbus_internal_api/src/models/timing_api.dart';
 import 'package:nus_nextbus_internal_api/src/api/api.dart';
 
 

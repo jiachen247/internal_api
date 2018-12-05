@@ -1,4 +1,4 @@
-import 'package:nus_nextbus_internal_api/models/route_api.dart';
+import 'package:nus_nextbus_internal_api/src/models/route_api.dart';
 
 class RouteParser{
 

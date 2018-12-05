@@ -6,10 +6,7 @@ void main() {
 
 	NusNextbusInternalApi _api = NusNextbusInternalApi();
 	group('BusStops', () {
-		test(".getBusStops()", () {
-			var string = "  foo ";
-			expect(string.trim(), equals("foo"));
-		});
+
 	});
 
 	group('Route', () {
