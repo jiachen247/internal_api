@@ -1,4 +1,4 @@
-import 'package:nus_nextbus_internal_api/nus_nextbus_internal_api.dart';
+import 'package:nus_nextbus_internal_api/internal_api.dart';
 
 main() async {
 
